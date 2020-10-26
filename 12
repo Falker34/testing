@@ -1,0 +1,11 @@
+#Proc1
+def PoverA3(A,B):
+    A = float(A)
+    B = float(B)
+    B = A**3
+    return(B)
+print(PoverA3(1,0))
+print(PoverA3(2,0))
+print(PoverA3(3,0))
+print(PoverA3(4,0))
+print(PoverA3(5,0))
